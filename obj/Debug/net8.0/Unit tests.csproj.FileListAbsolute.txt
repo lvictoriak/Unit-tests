@@ -113,3 +113,4 @@ C:\Users\vikal\source\repos\Unit tests\obj\Debug\net8.0\refint\Unit tests.dll
 C:\Users\vikal\source\repos\Unit tests\obj\Debug\net8.0\Unit tests.pdb
 C:\Users\vikal\source\repos\Unit tests\obj\Debug\net8.0\Unit tests.genruntimeconfig.cache
 C:\Users\vikal\source\repos\Unit tests\obj\Debug\net8.0\ref\Unit tests.dll
+C:\Users\vikal\source\repos\Unit tests\obj\Debug\net8.0\Unit tests.sourcelink.json

@@ -271,6 +271,14 @@ namespace Unit_tests
             Assert.AreEqual(expected[1].FuelVolume, actual[1].FuelVolume);
             Assert.AreEqual(expected[1].FuelFlow, actual[1].FuelFlow);
         }
+        // Тест для конструктора копирования с null
+        [TestMethod]
+        [ExpectedException(typeof(ArgumentNullException))]
+        public void TestCopyConstructorNull()
+        {
+            // Act
+            CarArray cars = new CarArray(null);
+        }
         [TestMethod]
         public void TestRandomConstructor()
         {
